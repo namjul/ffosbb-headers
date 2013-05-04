@@ -1,0 +1,42 @@
+{
+  "name": "ffosbb-headers",
+  "repo": "ffosbb-component/headers",
+  "description": "Firefox OS Building Blocks headers component.",
+  "version": "0.0.1",
+  "keywords": [],
+  "images": [
+    "headers/images/icons/add.png",
+    "headers/images/icons/back-rtl.png",
+    "headers/images/icons/back.png",
+    "headers/images/icons/clear.png",
+    "headers/images/icons/close.png",
+    "headers/images/icons/compose.png",
+    "headers/images/icons/edit.png",
+    "headers/images/icons/menu.png",
+    "headers/images/icons/reply-all.png",
+    "headers/images/icons/reply.png",
+    "headers/images/icons/send.png",
+    "headers/images/icons/user.png",
+    "headers/images/ui/header.png",
+    "headers/images/ui/negative.png",
+    "headers/images/ui/search.png",
+    "headers/images/ui/separator-large.png",
+    "headers/images/ui/separator.png",
+    "headers/images/ui/shadow.png",
+    "headers/images/ui/subheader.png",
+    "headers/images/ui/dark/header.png",
+    "headers/images/ui/dark/negative.png",
+    "headers/images/ui/dark/separator.png",
+    "headers/images/ui/dark/subheader.png",
+    "headers/images/ui/organic/header.png",
+    "headers/images/ui/organic/negative.png",
+    "headers/images/ui/organic/pattern.png",
+    "headers/images/ui/organic/separator.png",
+    "headers/images/ui/organic/subheader.png",
+    "headers/images/ui/overlay/header.png",
+    "headers/images/ui/overlay/separator.png"
+  ],
+  "styles": [
+    "headers.css"
+  ]
+}
