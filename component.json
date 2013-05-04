@@ -1,6 +1,6 @@
 {
   "name": "ffosbb-headers",
-  "repo": "ffosbb-component/headers",
+  "repo": "namjul/ffosbb-headers",
   "description": "Firefox OS Building Blocks headers component.",
   "version": "0.0.1",
   "keywords": [],
